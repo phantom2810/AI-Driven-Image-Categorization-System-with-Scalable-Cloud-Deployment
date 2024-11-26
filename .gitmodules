@@ -1,0 +1,3 @@
+[submodule "k8s-ml"]
+	path = k8s-ml
+	url = https://github.com/phantom2810/k8s-ml.git
